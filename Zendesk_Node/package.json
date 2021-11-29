@@ -1,0 +1,18 @@
+{
+  "name": "tickets",
+  "version": "1.0.0",
+  "description": "Ticket viewer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Pravesh Jain",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "react": "^17.0.2"
+  }
+}
